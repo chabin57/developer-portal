@@ -29,6 +29,14 @@ const users = [
     openSource: true,
     pinned: true,
   },
+   {
+    caption: 'SF6 Universe',
+    image:
+      'https://play-lh.googleusercontent.com/3T_W6ktzNKwqgZxH4PtVaESKjveFxzfqbpa7MEKugvNygRszwbuax28vEeH-ke1x8g=w480-h960-rw',
+    infoLink: 'https://play.google.com/store/apps/details?id=fr.karucode.sf6universe&gl=FR',
+    openSource: false,
+    pinned: true,
+  },
   {
     caption: 'Smash Pros',
     image: 'https://imgur.com/YEv88eD.png',
